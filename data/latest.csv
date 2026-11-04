@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-04 16:00;15,05;78,0;0,0;NO;0,376
-TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-04 16:00;16,65;70,5;0,0;NO;0,559
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-04 16:00;14,1;64,3;0,0;NO;0,574
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-04 16:00;15,1;76,7;0,0;NO;0,4
+TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-04 16:00;16,27;72,7;0,2;SI;0,505
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-04 16:00;13,97;64,8;0,0;NO;0,562
 TOS03002459;Follonica;Maremma Nord / Costa;2026-11-04 14:00;18,5;57,5;0,0;NO;0,905
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-04 16:00;12,91;77,3;0,0;NO;0,338
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-04 16:00;15,17;69,0;0,0;NO;0,534
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-04 16:00;14,53;70,0;0,0;NO;0,496
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-04 16:00;15,97;76,3;0,0;NO;0,43
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-04 16:00;15,63;81,3;0,0;NO;0,332
-TOS11000042;Stiacciole;Grosseto Est;2026-11-04 16:00;14,6;86,0;0,0;NO;0,233
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-04 16:00;15,27;65,3;0,0;NO;0,602
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-04 16:00;12,88;77,2;0,0;NO;0,339
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-04 16:00;15,1;69,0;0,0;NO;0,532
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-04 16:00;14,45;70,2;0,0;NO;0,49
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-04 16:00;15,82;76,8;0,0;NO;0,417
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-04 16:00;15,5;81,8;0,0;NO;0,32
+TOS11000042;Stiacciole;Grosseto Est;2026-11-04 16:00;14,55;86,0;0,0;NO;0,232
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-04 16:00;15,2;65,8;0,0;NO;0,591
