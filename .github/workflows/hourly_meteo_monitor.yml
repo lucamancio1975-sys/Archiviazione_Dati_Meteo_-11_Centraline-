@@ -1,10 +1,7 @@
 name: Monitoraggio e Archiviazione Agrometeo Oraria (CFR Toscana)
 
 on:
-  schedule:
-    # Esecuzione al minuto :30 di ogni ora, 24/7 (per compensare la latenza di trasmissione del CFR)
-    - cron: '30 * * * *'
-  workflow_dispatch: # Consente l'avvio manuale da interfaccia GitHub
+  workflow_dispatch: # Avviato con precisione al minuto :30 via API da cron-job.org (o manualmente)
 
 permissions:
   contents: write
