@@ -1,0 +1,14 @@
+[
+  {"id": "TOS11000008", "name": "Braccagni", "area": "Grosseto Nord / Maremma"},
+  {"id": "TOS11000006", "name": "Capalbio", "area": "Maremma Sud / Bassa Toscana"},
+  {"id": "TOS11000038", "name": "Ottavo (Castiglion Fiorentino)", "area": "Valdichiana / Arezzo"},
+  {"id": "TOS03002459", "name": "Follonica", "area": "Maremma Nord / Costa"},
+  {"id": "TOS03003079", "name": "Manciano", "area": "Colline del Fiora / Maremma"},
+  {"id": "TOS11000051", "name": "Montenero", "area": "Amiata / Val d'Orcia"},
+  {"id": "TOS11000014", "name": "Pitigliano", "area": "Area del Tufo / Maremma"},
+  {"id": "TOS11000005", "name": "Rispescia", "area": "Grosseto Sud / Parco Maremma"},
+  {"id": "TOS03003099", "name": "S. Donato", "area": "Orbetello / Costa d'Argento"},
+  {"id": "TOS11000042", "name": "Stiacciole", "area": "Grosseto Est"},
+  {"id": "TOS11000041", "name": "Massa Marittima Valpiana", "area": "Colline Metallifere / Maremma"}
+]
+
