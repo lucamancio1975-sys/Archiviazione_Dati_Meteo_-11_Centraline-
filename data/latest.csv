@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-04 21:00;14,55;69,0;0,0;NO;0,514
-TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-04 21:00;13,0;77,0;0,0;NO;0,344
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-04 21:00;12,4;68,5;0,0;NO;0,454
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-04 22:00;13,6;70,5;0,0;NO;0,459
+TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-04 22:00;13,2;75,5;0,0;NO;0,372
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-04 22:00;12,45;68,0;0,0;NO;0,462
 TOS03002459;Follonica;Maremma Nord / Costa;2026-11-04 20:00;15,3;65,0;0,0;NO;0,608
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-04 21:00;11,2;79,0;0,0;NO;0,279
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-04 21:00;13,65;70,5;0,0;NO;0,461
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-04 21:00;12,6;74,0;0,0;NO;0,379
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-04 21:00;14,05;77,5;0,0;NO;0,361
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-04 21:00;12,25;86,0;0,0;NO;0,2
-TOS11000042;Stiacciole;Grosseto Est;2026-11-04 21:00;13,15;77,0;0,0;NO;0,348
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-04 21:00;13,35;70,5;0,0;NO;0,452
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-04 22:00;10,7;80,0;0,0;NO;0,257
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-04 22:00;13,2;71,5;0,0;NO;0,432
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-04 22:00;11,9;75,5;0,0;NO;0,341
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-04 22:00;13,7;76,5;0,0;NO;0,368
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-04 22:00;11,2;85,0;0,0;NO;0,2
+TOS11000042;Stiacciole;Grosseto Est;2026-11-04 22:00;12,8;75,5;0,0;NO;0,362
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-04 22:00;13,2;71,0;0,0;NO;0,44
