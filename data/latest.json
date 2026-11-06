@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-06 07:30:50",
+  "updated_at": "2026-11-06 08:30:52",
   "stations_count": 11,
   "stations": {
     "TOS11000008": {
       "id": "TOS11000008",
       "name": "Braccagni",
       "area": "Grosseto Nord / Maremma",
-      "timestamp": "2026-11-06 08:00",
-      "temperature_c": 11.05,
-      "humidity_rh": 85.0,
-      "rainfall_mm": 0.0,
-      "leaf_wetness": false,
-      "vpd_kpa": 0.198
+      "timestamp": "2026-11-06 09:00",
+      "temperature_c": 11.3,
+      "humidity_rh": 84.5,
+      "rainfall_mm": 0.6,
+      "leaf_wetness": true,
+      "vpd_kpa": 0.208
     },
     "TOS11000006": {
       "id": "TOS11000006",
@@ -28,12 +28,12 @@
       "id": "TOS11000038",
       "name": "Ottavo (Castiglion Fiorentino)",
       "area": "Valdichiana / Arezzo",
-      "timestamp": "2026-11-06 08:00",
-      "temperature_c": 8.95,
-      "humidity_rh": 87.5,
-      "rainfall_mm": 0.2,
-      "leaf_wetness": true,
-      "vpd_kpa": 0.143
+      "timestamp": "2026-11-06 09:00",
+      "temperature_c": 10.0,
+      "humidity_rh": 88.0,
+      "rainfall_mm": 0.0,
+      "leaf_wetness": false,
+      "vpd_kpa": 0.147
     },
     "TOS03002459": {
       "id": "TOS03002459",
@@ -50,10 +50,10 @@
       "id": "TOS03003079",
       "name": "Manciano",
       "area": "Colline del Fiora / Maremma",
-      "timestamp": "2026-11-06 08:00",
-      "temperature_c": 8.58,
+      "timestamp": "2026-11-06 09:00",
+      "temperature_c": 8.7,
       "humidity_rh": 100.0,
-      "rainfall_mm": 0.8,
+      "rainfall_mm": 1.8,
       "leaf_wetness": true,
       "vpd_kpa": 0.0
     },
@@ -61,67 +61,67 @@
       "id": "TOS11000051",
       "name": "Montenero",
       "area": "Amiata / Val d'Orcia",
-      "timestamp": "2026-11-06 08:00",
-      "temperature_c": 10.4,
-      "humidity_rh": 89.0,
-      "rainfall_mm": 0.6,
-      "leaf_wetness": true,
-      "vpd_kpa": 0.139
+      "timestamp": "2026-11-06 09:00",
+      "temperature_c": 10.6,
+      "humidity_rh": 89.5,
+      "rainfall_mm": 0.0,
+      "leaf_wetness": false,
+      "vpd_kpa": 0.134
     },
     "TOS11000014": {
       "id": "TOS11000014",
       "name": "Pitigliano",
       "area": "Area del Tufo / Maremma",
-      "timestamp": "2026-11-06 08:00",
-      "temperature_c": 9.5,
+      "timestamp": "2026-11-06 09:00",
+      "temperature_c": 9.7,
       "humidity_rh": 90.0,
-      "rainfall_mm": 0.4,
+      "rainfall_mm": 4.4,
       "leaf_wetness": true,
-      "vpd_kpa": 0.119
+      "vpd_kpa": 0.12
     },
     "TOS11000005": {
       "id": "TOS11000005",
       "name": "Rispescia",
       "area": "Grosseto Sud / Parco Maremma",
-      "timestamp": "2026-11-06 08:00",
-      "temperature_c": 10.65,
+      "timestamp": "2026-11-06 09:00",
+      "temperature_c": 10.85,
       "humidity_rh": 89.0,
-      "rainfall_mm": 0.0,
-      "leaf_wetness": false,
-      "vpd_kpa": 0.141
+      "rainfall_mm": 4.8,
+      "leaf_wetness": true,
+      "vpd_kpa": 0.143
     },
     "TOS03003099": {
       "id": "TOS03003099",
       "name": "S. Donato",
       "area": "Orbetello / Costa d'Argento",
-      "timestamp": "2026-11-06 08:00",
-      "temperature_c": 11.8,
+      "timestamp": "2026-11-06 09:00",
+      "temperature_c": 11.35,
       "humidity_rh": 94.0,
-      "rainfall_mm": 2.4,
+      "rainfall_mm": 4.2,
       "leaf_wetness": true,
-      "vpd_kpa": 0.083
+      "vpd_kpa": 0.081
     },
     "TOS11000042": {
       "id": "TOS11000042",
       "name": "Stiacciole",
       "area": "Grosseto Est",
-      "timestamp": "2026-11-06 08:00",
-      "temperature_c": 10.2,
+      "timestamp": "2026-11-06 09:00",
+      "temperature_c": 10.3,
       "humidity_rh": 89.0,
-      "rainfall_mm": 1.6,
+      "rainfall_mm": 2.4,
       "leaf_wetness": true,
-      "vpd_kpa": 0.137
+      "vpd_kpa": 0.138
     },
     "TOS11000041": {
       "id": "TOS11000041",
       "name": "Massa Marittima Valpiana",
       "area": "Colline Metallifere / Maremma",
-      "timestamp": "2026-11-06 08:00",
-      "temperature_c": 11.25,
-      "humidity_rh": 82.5,
+      "timestamp": "2026-11-06 09:00",
+      "temperature_c": 11.2,
+      "humidity_rh": 83.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.234
+      "vpd_kpa": 0.226
     }
   }
 }
