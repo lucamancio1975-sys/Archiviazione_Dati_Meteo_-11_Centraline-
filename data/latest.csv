@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-07 09:00;12,6;91,5;0,0;SI;0,124
-TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-07 04:00;10,65;92,0;0,0;SI;0,103
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-07 09:00;11,0;93,0;0,0;SI;0,092
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-07 10:00;14,95;85,5;0,0;NO;0,246
+TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-07 06:00;10,1;92,0;0,0;SI;0,099
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-07 10:00;11,75;91,5;0,0;SI;0,117
 TOS03002459;Follonica;Maremma Nord / Costa;2026-11-07 05:00;8,4;98,5;0,0;SI;0,017
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-07 09:00;11,4;95,5;0,0;SI;0,061
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-07 09:00;11,7;94,0;0,0;SI;0,083
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-07 09:00;11,45;92,5;0,0;SI;0,101
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-07 09:00;13,1;91,0;0,0;SI;0,136
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-07 09:00;10,3;98,0;0,0;SI;0,025
-TOS11000042;Stiacciole;Grosseto Est;2026-11-07 09:00;12,3;91,5;0,0;SI;0,122
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-07 09:00;10,65;99,0;0,0;SI;0,013
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-07 10:00;13,1;86,0;0,0;NO;0,211
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-07 10:00;13,3;93,5;0,0;SI;0,099
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-07 10:00;13,9;92,0;0,0;SI;0,127
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-07 10:00;14,75;82,5;0,0;NO;0,294
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-07 10:00;12,45;98,0;0,0;SI;0,029
+TOS11000042;Stiacciole;Grosseto Est;2026-11-07 10:00;14,5;82,0;0,0;NO;0,297
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-07 10:00;13,25;97,0;0,0;SI;0,046
