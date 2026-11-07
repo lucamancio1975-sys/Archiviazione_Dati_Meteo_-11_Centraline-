@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-07 16:00;16,9;69,0;0,0;NO;0,597
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-07 17:00;14,65;75,5;0,0;NO;0,408
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-07 13:00;18,2;68,0;0,0;NO;0,669
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-07 16:00;12,45;78,0;0,0;NO;0,318
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-07 15:00;17,7;54,0;0,0;NO;0,932
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-07 16:00;12,77;79,0;0,0;NO;0,31
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-07 16:00;13,8;79,0;0,0;NO;0,331
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-07 16:00;13,9;78,0;0,0;NO;0,349
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-07 16:00;17,5;67,5;0,0;NO;0,65
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-07 16:00;16,95;69,5;0,0;NO;0,589
-TOS11000042;Stiacciole;Grosseto Est;2026-11-07 16:00;15,0;76,5;0,0;NO;0,401
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-07 16:00;15,9;66,0;0,0;NO;0,614
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-07 17:00;11,8;78,0;0,0;NO;0,305
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-07 15:00;17,77;54,0;0,0;NO;0,936
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-07 17:00;11,82;81,0;0,0;NO;0,263
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-07 17:00;12,75;83,5;0,0;NO;0,243
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-07 17:00;13,05;79,0;0,0;NO;0,316
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-07 17:00;14,05;77,0;0,0;NO;0,369
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-07 17:00;14,3;74,0;0,0;NO;0,424
+TOS11000042;Stiacciole;Grosseto Est;2026-11-07 17:00;13,8;80,5;0,0;NO;0,308
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-07 17:00;13,0;75,5;0,0;NO;0,367
