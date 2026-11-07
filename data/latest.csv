@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-07 19:00;11,45;85,0;0,0;NO;0,203
-TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-07 18:00;14,3;74,0;0,0;NO;0,424
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-07 19:00;11,15;80,0;0,0;NO;0,265
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-07 20:00;10,15;87,5;0,0;NO;0,155
+TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-07 20:00;12,0;83,0;0,0;NO;0,238
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-07 20:00;11,45;76,5;0,0;NO;0,318
 TOS03002459;Follonica;Maremma Nord / Costa;2026-11-07 16:00;16,8;57,0;0,0;NO;0,823
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-07 19:00;11,08;87,5;0,0;NO;0,165
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-07 19:00;10,7;85,0;0,0;NO;0,193
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-07 19:00;10,1;86,5;0,0;NO;0,167
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-07 19:00;10,7;84,0;0,0;NO;0,206
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-07 19:00;10,2;89,5;0,0;NO;0,131
-TOS11000042;Stiacciole;Grosseto Est;2026-11-07 19:00;10,8;87,0;0,0;NO;0,168
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-07 19:00;10,05;90,5;0,0;SI;0,117
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-07 20:00;10,87;85,5;0,0;NO;0,189
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-07 20:00;10,15;89,0;0,0;NO;0,136
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-07 20:00;9,3;88,0;0,0;NO;0,141
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-07 20:00;10,25;86,5;0,0;NO;0,169
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-07 20:00;9,05;92,0;0,0;SI;0,092
+TOS11000042;Stiacciole;Grosseto Est;2026-11-07 20:00;9,6;89,0;0,0;NO;0,131
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-07 20:00;10,1;90,0;0,0;SI;0,124
