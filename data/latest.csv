@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-08 13:00;17,85;68,5;0,0;NO;0,644
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-08 14:00;18,1;67,0;0,0;NO;0,685
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-08 10:00;15,45;80,0;0,0;NO;0,351
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-08 13:00;13,9;72,5;0,0;NO;0,437
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-08 12:00;16,9;65,0;0,0;NO;0,674
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-08 13:00;14,94;76,0;0,0;NO;0,408
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-08 13:00;16,1;70,5;0,0;NO;0,54
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-08 13:00;15,45;73,5;0,0;NO;0,465
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-08 13:00;17,95;73,0;0,0;NO;0,556
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-08 13:00;18,15;73,0;0,0;NO;0,563
-TOS11000042;Stiacciole;Grosseto Est;2026-11-08 13:00;16,4;74,5;0,0;NO;0,476
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-08 13:00;16,35;69,5;0,0;NO;0,567
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-08 14:00;14,4;68,0;0,0;NO;0,525
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-08 13:00;17,7;63,0;0,0;NO;0,749
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-08 14:00;14,55;82,5;0,0;NO;0,29
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-08 14:00;17,15;68,0;0,0;NO;0,626
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-08 14:00;15,2;76,5;0,0;NO;0,406
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-08 14:00;18,5;67,5;0,0;NO;0,692
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-08 14:00;20,0;66,5;0,0;NO;0,783
+TOS11000042;Stiacciole;Grosseto Est;2026-11-08 14:00;17,8;69,5;0,0;NO;0,622
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-08 14:00;17,55;65,0;0,0;NO;0,702
