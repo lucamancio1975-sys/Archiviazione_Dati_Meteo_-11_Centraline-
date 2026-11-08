@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-08 02:00;8,35;92,0;0,0;SI;0,088
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-08 03:00;7,95;92,0;0,2;SI;0,086
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-08 02:00;8,7;91,0;0,0;SI;0,101
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-08 02:00;7,55;88,5;0,0;NO;0,12
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-08 03:00;8,05;90,0;0,0;SI;0,108
 TOS03002459;Follonica;Maremma Nord / Costa;2026-11-07 21:00;9,43;93,2;0,0;SI;0,08
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-08 02:00;9,07;91,0;0,0;SI;0,104
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-08 02:00;6,9;92,0;0,0;SI;0,08
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-08 02:00;7,7;92,0;0,0;SI;0,084
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-08 02:00;10,55;86,0;0,0;NO;0,178
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-08 02:00;7,55;96,0;0,0;SI;0,042
-TOS11000042;Stiacciole;Grosseto Est;2026-11-08 02:00;7,45;92,0;0,0;SI;0,083
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-08 02:00;9,7;89,0;0,0;NO;0,132
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-08 03:00;9,42;89,5;0,0;NO;0,124
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-08 03:00;6,65;93,0;0,0;SI;0,068
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-08 03:00;7,9;92,0;0,0;SI;0,085
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-08 03:00;10,7;85,0;0,0;NO;0,193
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-08 03:00;7,6;97,0;0,0;SI;0,031
+TOS11000042;Stiacciole;Grosseto Est;2026-11-08 03:00;7,4;92,0;0,0;SI;0,082
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-08 03:00;10,1;87,0;0,0;NO;0,161

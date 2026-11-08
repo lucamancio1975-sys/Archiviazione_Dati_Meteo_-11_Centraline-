@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-08 01:30:45",
+  "updated_at": "2026-11-08 02:30:48",
   "stations_count": 11,
   "stations": {
     "TOS11000008": {
       "id": "TOS11000008",
       "name": "Braccagni",
       "area": "Grosseto Nord / Maremma",
-      "timestamp": "2026-11-08 02:00",
-      "temperature_c": 8.35,
+      "timestamp": "2026-11-08 03:00",
+      "temperature_c": 7.95,
       "humidity_rh": 92.0,
-      "rainfall_mm": 0.0,
+      "rainfall_mm": 0.2,
       "leaf_wetness": true,
-      "vpd_kpa": 0.088
+      "vpd_kpa": 0.086
     },
     "TOS11000006": {
       "id": "TOS11000006",
@@ -28,12 +28,12 @@
       "id": "TOS11000038",
       "name": "Ottavo (Castiglion Fiorentino)",
       "area": "Valdichiana / Arezzo",
-      "timestamp": "2026-11-08 02:00",
-      "temperature_c": 7.55,
-      "humidity_rh": 88.5,
+      "timestamp": "2026-11-08 03:00",
+      "temperature_c": 8.05,
+      "humidity_rh": 90.0,
       "rainfall_mm": 0.0,
-      "leaf_wetness": false,
-      "vpd_kpa": 0.12
+      "leaf_wetness": true,
+      "vpd_kpa": 0.108
     },
     "TOS03002459": {
       "id": "TOS03002459",
@@ -50,78 +50,78 @@
       "id": "TOS03003079",
       "name": "Manciano",
       "area": "Colline del Fiora / Maremma",
-      "timestamp": "2026-11-08 02:00",
-      "temperature_c": 9.07,
-      "humidity_rh": 91.0,
+      "timestamp": "2026-11-08 03:00",
+      "temperature_c": 9.42,
+      "humidity_rh": 89.5,
       "rainfall_mm": 0.0,
-      "leaf_wetness": true,
-      "vpd_kpa": 0.104
+      "leaf_wetness": false,
+      "vpd_kpa": 0.124
     },
     "TOS11000051": {
       "id": "TOS11000051",
       "name": "Montenero",
       "area": "Amiata / Val d'Orcia",
-      "timestamp": "2026-11-08 02:00",
-      "temperature_c": 6.9,
-      "humidity_rh": 92.0,
+      "timestamp": "2026-11-08 03:00",
+      "temperature_c": 6.65,
+      "humidity_rh": 93.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": true,
-      "vpd_kpa": 0.08
+      "vpd_kpa": 0.068
     },
     "TOS11000014": {
       "id": "TOS11000014",
       "name": "Pitigliano",
       "area": "Area del Tufo / Maremma",
-      "timestamp": "2026-11-08 02:00",
-      "temperature_c": 7.7,
+      "timestamp": "2026-11-08 03:00",
+      "temperature_c": 7.9,
       "humidity_rh": 92.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": true,
-      "vpd_kpa": 0.084
+      "vpd_kpa": 0.085
     },
     "TOS11000005": {
       "id": "TOS11000005",
       "name": "Rispescia",
       "area": "Grosseto Sud / Parco Maremma",
-      "timestamp": "2026-11-08 02:00",
-      "temperature_c": 10.55,
-      "humidity_rh": 86.0,
+      "timestamp": "2026-11-08 03:00",
+      "temperature_c": 10.7,
+      "humidity_rh": 85.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.178
+      "vpd_kpa": 0.193
     },
     "TOS03003099": {
       "id": "TOS03003099",
       "name": "S. Donato",
       "area": "Orbetello / Costa d'Argento",
-      "timestamp": "2026-11-08 02:00",
-      "temperature_c": 7.55,
-      "humidity_rh": 96.0,
+      "timestamp": "2026-11-08 03:00",
+      "temperature_c": 7.6,
+      "humidity_rh": 97.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": true,
-      "vpd_kpa": 0.042
+      "vpd_kpa": 0.031
     },
     "TOS11000042": {
       "id": "TOS11000042",
       "name": "Stiacciole",
       "area": "Grosseto Est",
-      "timestamp": "2026-11-08 02:00",
-      "temperature_c": 7.45,
+      "timestamp": "2026-11-08 03:00",
+      "temperature_c": 7.4,
       "humidity_rh": 92.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": true,
-      "vpd_kpa": 0.083
+      "vpd_kpa": 0.082
     },
     "TOS11000041": {
       "id": "TOS11000041",
       "name": "Massa Marittima Valpiana",
       "area": "Colline Metallifere / Maremma",
-      "timestamp": "2026-11-08 02:00",
-      "temperature_c": 9.7,
-      "humidity_rh": 89.0,
+      "timestamp": "2026-11-08 03:00",
+      "temperature_c": 10.1,
+      "humidity_rh": 87.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.132
+      "vpd_kpa": 0.161
     }
   }
 }
