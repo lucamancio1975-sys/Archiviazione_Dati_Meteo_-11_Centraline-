@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-08 09:00;10,55;90,5;0,0;SI;0,121
-TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-08 04:00;8,5;90,3;0,0;SI;0,108
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-08 09:00;8,95;93,0;0,0;SI;0,08
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-08 10:00;14,55;81,0;0,0;NO;0,315
+TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-08 06:00;8,6;91,0;0,0;SI;0,101
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-08 10:00;10,0;89,5;0,0;NO;0,129
 TOS03002459;Follonica;Maremma Nord / Costa;2026-11-08 04:00;10,8;87,0;0,0;NO;0,168
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-08 09:00;11,98;82,5;0,0;NO;0,245
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-08 09:00;7,05;94,0;0,0;SI;0,06
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-08 09:00;11,75;93,0;0,0;SI;0,097
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-08 09:00;11,95;82,5;0,0;NO;0,245
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-08 09:00;11,05;98,0;0,0;SI;0,026
-TOS11000042;Stiacciole;Grosseto Est;2026-11-08 09:00;8,85;93,0;0,0;SI;0,08
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-08 09:00;11,65;89,0;0,0;NO;0,151
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-08 10:00;13,04;82,0;0,0;NO;0,27
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-08 10:00;10,5;94,0;0,0;SI;0,076
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-08 10:00;13,35;88,5;0,0;NO;0,176
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-08 10:00;13,45;81,0;0,0;NO;0,293
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-08 10:00;12,6;98,0;0,0;SI;0,029
+TOS11000042;Stiacciole;Grosseto Est;2026-11-08 10:00;11,15;92,0;0,0;SI;0,106
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-08 10:00;14,25;80,0;0,0;NO;0,325
