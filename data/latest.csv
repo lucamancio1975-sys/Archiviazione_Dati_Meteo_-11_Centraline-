@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-08 08:00;8,9;92,0;0,0;SI;0,091
-TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-08 04:00;8,3;90,0;0,0;SI;0,109
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-08 08:00;7,85;93,5;0,0;SI;0,069
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-08 09:00;10,55;90,5;0,0;SI;0,121
+TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-08 04:00;8,5;90,3;0,0;SI;0,108
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-08 09:00;8,95;93,0;0,0;SI;0,08
 TOS03002459;Follonica;Maremma Nord / Costa;2026-11-08 04:00;10,8;87,0;0,0;NO;0,168
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-08 08:00;9,48;90,0;0,0;SI;0,119
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-08 08:00;6,35;94,5;0,0;SI;0,053
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-08 08:00;8,75;93,0;0,0;SI;0,079
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-08 08:00;10,65;84,5;0,0;NO;0,199
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-08 08:00;8,15;97,0;0,0;SI;0,033
-TOS11000042;Stiacciole;Grosseto Est;2026-11-08 08:00;7,9;93,0;0,0;SI;0,075
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-08 08:00;9,8;89,5;0,0;NO;0,127
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-08 09:00;11,98;82,5;0,0;NO;0,245
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-08 09:00;7,05;94,0;0,0;SI;0,06
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-08 09:00;11,75;93,0;0,0;SI;0,097
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-08 09:00;11,95;82,5;0,0;NO;0,245
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-08 09:00;11,05;98,0;0,0;SI;0,026
+TOS11000042;Stiacciole;Grosseto Est;2026-11-08 09:00;8,85;93,0;0,0;SI;0,08
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-08 09:00;11,65;89,0;0,0;NO;0,151
