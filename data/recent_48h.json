@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-11-09 06:30:52",
+  "updated_at": "2026-11-09 07:30:52",
   "stations": {
     "TOS11000008": [
-      {
-        "timestamp": "2026-11-07 08:00",
-        "temperature_c": 10.62,
-        "humidity_rh": 92.0,
-        "rainfall_mm": 0.0,
-        "leaf_wetness": true,
-        "vpd_kpa": 0.102
-      },
       {
         "timestamp": "2026-11-07 09:00",
         "temperature_c": 13.05,
@@ -380,22 +372,22 @@
       },
       {
         "timestamp": "2026-11-09 07:00",
-        "temperature_c": 11.6,
+        "temperature_c": 11.78,
         "humidity_rh": 90.0,
         "rainfall_mm": 0.0,
         "leaf_wetness": true,
-        "vpd_kpa": 0.137
+        "vpd_kpa": 0.138
+      },
+      {
+        "timestamp": "2026-11-09 08:00",
+        "temperature_c": 12.55,
+        "humidity_rh": 90.0,
+        "rainfall_mm": 0.0,
+        "leaf_wetness": true,
+        "vpd_kpa": 0.145
       }
     ],
     "TOS11000006": [
-      {
-        "timestamp": "2026-11-07 08:00",
-        "temperature_c": 11.55,
-        "humidity_rh": 91.5,
-        "rainfall_mm": 0.0,
-        "leaf_wetness": true,
-        "vpd_kpa": 0.116
-      },
       {
         "timestamp": "2026-11-07 09:00",
         "temperature_c": 13.68,
@@ -734,11 +726,11 @@
       },
       {
         "timestamp": "2026-11-09 03:00",
-        "temperature_c": 13.37,
-        "humidity_rh": 87.7,
+        "temperature_c": 13.4,
+        "humidity_rh": 87.5,
         "rainfall_mm": 0.0,
         "leaf_wetness": false,
-        "vpd_kpa": 0.189
+        "vpd_kpa": 0.192
       },
       {
         "timestamp": "2026-11-09 04:00",
@@ -766,22 +758,22 @@
       },
       {
         "timestamp": "2026-11-09 07:00",
-        "temperature_c": 13.55,
+        "temperature_c": 13.6,
         "humidity_rh": 85.0,
         "rainfall_mm": 0.0,
         "leaf_wetness": false,
-        "vpd_kpa": 0.233
+        "vpd_kpa": 0.234
+      },
+      {
+        "timestamp": "2026-11-09 08:00",
+        "temperature_c": 14.3,
+        "humidity_rh": 85.0,
+        "rainfall_mm": 0.0,
+        "leaf_wetness": false,
+        "vpd_kpa": 0.244
       }
     ],
     "TOS11000038": [
-      {
-        "timestamp": "2026-11-07 08:00",
-        "temperature_c": 10.5,
-        "humidity_rh": 94.0,
-        "rainfall_mm": 0.0,
-        "leaf_wetness": true,
-        "vpd_kpa": 0.076
-      },
       {
         "timestamp": "2026-11-07 09:00",
         "temperature_c": 11.22,
@@ -1152,11 +1144,19 @@
       },
       {
         "timestamp": "2026-11-09 07:00",
-        "temperature_c": 10.35,
+        "temperature_c": 10.4,
         "humidity_rh": 92.0,
         "rainfall_mm": 0.0,
         "leaf_wetness": true,
         "vpd_kpa": 0.101
+      },
+      {
+        "timestamp": "2026-11-09 08:00",
+        "temperature_c": 10.75,
+        "humidity_rh": 92.0,
+        "rainfall_mm": 0.0,
+        "leaf_wetness": true,
+        "vpd_kpa": 0.103
       }
     ],
     "TOS03002459": [
@@ -1547,14 +1547,6 @@
     ],
     "TOS03003079": [
       {
-        "timestamp": "2026-11-07 08:00",
-        "temperature_c": 10.71,
-        "humidity_rh": 99.2,
-        "rainfall_mm": 0.0,
-        "leaf_wetness": true,
-        "vpd_kpa": 0.01
-      },
-      {
         "timestamp": "2026-11-07 09:00",
         "temperature_c": 11.9,
         "humidity_rh": 94.2,
@@ -1924,22 +1916,22 @@
       },
       {
         "timestamp": "2026-11-09 07:00",
-        "temperature_c": 11.2,
+        "temperature_c": 11.27,
         "humidity_rh": 97.0,
         "rainfall_mm": 0.0,
         "leaf_wetness": true,
         "vpd_kpa": 0.04
+      },
+      {
+        "timestamp": "2026-11-09 08:00",
+        "temperature_c": 11.46,
+        "humidity_rh": 97.0,
+        "rainfall_mm": 0.0,
+        "leaf_wetness": true,
+        "vpd_kpa": 0.041
       }
     ],
     "TOS11000051": [
-      {
-        "timestamp": "2026-11-07 08:00",
-        "temperature_c": 10.93,
-        "humidity_rh": 94.0,
-        "rainfall_mm": 0.0,
-        "leaf_wetness": true,
-        "vpd_kpa": 0.078
-      },
       {
         "timestamp": "2026-11-07 09:00",
         "temperature_c": 11.97,
@@ -2310,22 +2302,22 @@
       },
       {
         "timestamp": "2026-11-09 07:00",
-        "temperature_c": 10.2,
+        "temperature_c": 10.3,
         "humidity_rh": 91.0,
         "rainfall_mm": 0.0,
         "leaf_wetness": true,
-        "vpd_kpa": 0.112
+        "vpd_kpa": 0.113
+      },
+      {
+        "timestamp": "2026-11-09 08:00",
+        "temperature_c": 10.65,
+        "humidity_rh": 91.0,
+        "rainfall_mm": 0.0,
+        "leaf_wetness": true,
+        "vpd_kpa": 0.115
       }
     ],
     "TOS11000014": [
-      {
-        "timestamp": "2026-11-07 08:00",
-        "temperature_c": 9.55,
-        "humidity_rh": 94.2,
-        "rainfall_mm": 0.0,
-        "leaf_wetness": true,
-        "vpd_kpa": 0.069
-      },
       {
         "timestamp": "2026-11-07 09:00",
         "temperature_c": 12.4,
@@ -2696,22 +2688,22 @@
       },
       {
         "timestamp": "2026-11-09 07:00",
-        "temperature_c": 10.55,
+        "temperature_c": 10.62,
         "humidity_rh": 94.0,
         "rainfall_mm": 0.0,
         "leaf_wetness": true,
-        "vpd_kpa": 0.076
+        "vpd_kpa": 0.077
+      },
+      {
+        "timestamp": "2026-11-09 08:00",
+        "temperature_c": 11.55,
+        "humidity_rh": 94.5,
+        "rainfall_mm": 0.0,
+        "leaf_wetness": true,
+        "vpd_kpa": 0.075
       }
     ],
     "TOS11000005": [
-      {
-        "timestamp": "2026-11-07 08:00",
-        "temperature_c": 10.97,
-        "humidity_rh": 92.2,
-        "rainfall_mm": 0.0,
-        "leaf_wetness": true,
-        "vpd_kpa": 0.102
-      },
       {
         "timestamp": "2026-11-07 09:00",
         "temperature_c": 13.55,
@@ -3082,22 +3074,22 @@
       },
       {
         "timestamp": "2026-11-09 07:00",
-        "temperature_c": 13.45,
+        "temperature_c": 13.1,
         "humidity_rh": 88.0,
         "rainfall_mm": 0.0,
         "leaf_wetness": false,
-        "vpd_kpa": 0.185
+        "vpd_kpa": 0.181
+      },
+      {
+        "timestamp": "2026-11-09 08:00",
+        "temperature_c": 14.05,
+        "humidity_rh": 89.0,
+        "rainfall_mm": 0.0,
+        "leaf_wetness": false,
+        "vpd_kpa": 0.176
       }
     ],
     "TOS03003099": [
-      {
-        "timestamp": "2026-11-07 08:00",
-        "temperature_c": 9.93,
-        "humidity_rh": 97.5,
-        "rainfall_mm": 0.0,
-        "leaf_wetness": true,
-        "vpd_kpa": 0.031
-      },
       {
         "timestamp": "2026-11-07 09:00",
         "temperature_c": 10.93,
@@ -3468,22 +3460,22 @@
       },
       {
         "timestamp": "2026-11-09 07:00",
-        "temperature_c": 12.5,
+        "temperature_c": 12.68,
         "humidity_rh": 95.0,
         "rainfall_mm": 0.0,
         "leaf_wetness": true,
-        "vpd_kpa": 0.072
+        "vpd_kpa": 0.073
+      },
+      {
+        "timestamp": "2026-11-09 08:00",
+        "temperature_c": 13.4,
+        "humidity_rh": 95.0,
+        "rainfall_mm": 0.0,
+        "leaf_wetness": true,
+        "vpd_kpa": 0.077
       }
     ],
     "TOS11000042": [
-      {
-        "timestamp": "2026-11-07 08:00",
-        "temperature_c": 10.8,
-        "humidity_rh": 92.0,
-        "rainfall_mm": 0.0,
-        "leaf_wetness": true,
-        "vpd_kpa": 0.104
-      },
       {
         "timestamp": "2026-11-07 09:00",
         "temperature_c": 12.97,
@@ -3854,22 +3846,22 @@
       },
       {
         "timestamp": "2026-11-09 07:00",
-        "temperature_c": 10.7,
+        "temperature_c": 10.75,
         "humidity_rh": 92.0,
         "rainfall_mm": 0.0,
         "leaf_wetness": true,
         "vpd_kpa": 0.103
+      },
+      {
+        "timestamp": "2026-11-09 08:00",
+        "temperature_c": 11.05,
+        "humidity_rh": 92.0,
+        "rainfall_mm": 0.0,
+        "leaf_wetness": true,
+        "vpd_kpa": 0.105
       }
     ],
     "TOS11000041": [
-      {
-        "timestamp": "2026-11-07 08:00",
-        "temperature_c": 9.28,
-        "humidity_rh": 98.5,
-        "rainfall_mm": 0.0,
-        "leaf_wetness": true,
-        "vpd_kpa": 0.018
-      },
       {
         "timestamp": "2026-11-07 09:00",
         "temperature_c": 11.2,
@@ -4240,11 +4232,19 @@
       },
       {
         "timestamp": "2026-11-09 07:00",
-        "temperature_c": 13.2,
-        "humidity_rh": 88.0,
+        "temperature_c": 13.15,
+        "humidity_rh": 88.5,
         "rainfall_mm": 0.0,
         "leaf_wetness": false,
-        "vpd_kpa": 0.182
+        "vpd_kpa": 0.174
+      },
+      {
+        "timestamp": "2026-11-09 08:00",
+        "temperature_c": 13.35,
+        "humidity_rh": 90.0,
+        "rainfall_mm": 0.0,
+        "leaf_wetness": true,
+        "vpd_kpa": 0.153
       }
     ]
   }
