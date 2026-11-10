@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
 TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-10 18:00;17,27;89,0;0,0;NO;0,217
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-10 18:00;19,5;86,7;0,0;NO;0,301
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-10 19:00;16,15;92,0;0,0;SI;0,147
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-10 19:00;17,6;96,0;0,0;SI;0,081
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-10 19:00;16,3;100,0;0,0;SI;0,0
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-10 19:00;18,55;85,5;0,0;NO;0,31
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-10 19:00;17,25;93,5;0,0;SI;0,128
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-10 19:00;18,95;87,0;0,0;NO;0,285
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-10 19:00;16,75;94,0;0,0;SI;0,114
-TOS11000042;Stiacciole;Grosseto Est;2026-11-10 19:00;17,95;88,0;0,0;NO;0,247
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-10 19:00;17,45;98,0;0,0;SI;0,04
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-10 20:00;16,15;93,0;1,0;SI;0,129
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-10 20:00;16,75;97,0;0,0;SI;0,057
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-10 20:00;16,23;100,0;0,0;SI;0,0
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-10 20:00;17,9;86,5;0,0;NO;0,277
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-10 20:00;17,15;94,0;0,0;SI;0,117
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-10 20:00;18,75;87,0;0,0;NO;0,281
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-10 20:00;16,35;95,0;0,0;SI;0,093
+TOS11000042;Stiacciole;Grosseto Est;2026-11-10 20:00;17,15;89,0;0,0;NO;0,215
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-10 20:00;17,0;98,0;0,0;SI;0,039
