@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-10 12:00;19,7;84,5;0,0;NO;0,356
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-10 13:00;19,35;85,0;0,0;NO;0,337
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-10 11:00;19,2;85,0;0,0;NO;0,334
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-10 12:00;16,0;88,5;0,0;NO;0,209
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-10 09:00;19,0;93,0;0,0;SI;0,154
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-10 12:00;15,23;100,0;0,0;SI;0,0
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-10 12:00;20,45;75,0;0,0;NO;0,601
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-10 12:00;16,05;94,0;0,0;SI;0,109
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-10 12:00;19,3;84,5;0,0;NO;0,347
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-10 12:00;18,4;95,0;0,2;SI;0,106
-TOS11000042;Stiacciole;Grosseto Est;2026-11-10 12:00;19,5;82,0;0,0;NO;0,408
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-10 12:00;17,85;98,5;0,0;SI;0,031
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-10 13:00;16,5;87,0;0,0;NO;0,244
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-10 13:00;20,6;86,0;0,0;NO;0,34
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-10 13:00;15,82;100,0;0,0;SI;0,0
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-10 13:00;20,05;77,0;0,0;NO;0,539
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-10 13:00;17,1;94,0;0,0;SI;0,117
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-10 13:00;19,35;84,5;0,0;NO;0,348
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-10 13:00;18,4;94,0;0,0;SI;0,127
+TOS11000042;Stiacciole;Grosseto Est;2026-11-10 13:00;19,5;83,0;0,0;NO;0,385
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-10 13:00;18,05;96,0;0,0;SI;0,083
