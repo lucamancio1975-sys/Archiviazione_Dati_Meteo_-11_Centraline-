@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-12 14:00;19,3;87,5;0,0;NO;0,28
-TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-12 10:00;19,37;87,3;1,2;SI;0,286
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-12 14:00;17,0;87,5;0,8;SI;0,242
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-12 14:00;19,65;91,5;1,2;SI;0,194
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-12 14:00;16,22;100,0;0,2;SI;0,0
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-12 14:00;19,05;81,5;0,4;SI;0,408
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-12 14:00;17,3;94,0;0,8;SI;0,118
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-12 14:00;19,55;88,5;0,8;SI;0,261
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-12 14:00;19,1;96,0;0,0;SI;0,088
-TOS11000042;Stiacciole;Grosseto Est;2026-11-12 14:00;18,95;89,0;0,0;NO;0,241
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-12 14:00;17,7;99,0;0,6;SI;0,02
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-12 15:00;18,5;88,0;1,4;SI;0,256
+TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-12 11:00;19,5;89,0;0,6;SI;0,249
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-12 15:00;17,55;85,5;0,0;NO;0,291
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-12 15:00;19,05;94,0;1,0;SI;0,132
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-12 15:00;16,05;100,0;6,4;SI;0,0
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-12 15:00;19,15;81,5;2,4;SI;0,41
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-12 15:00;17,25;92,5;7,8;SI;0,148
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-12 15:00;18,65;90,0;2,0;SI;0,215
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-12 15:00;18,15;96,0;1,4;SI;0,083
+TOS11000042;Stiacciole;Grosseto Est;2026-11-12 15:00;18,1;89,5;2,2;SI;0,218
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-12 15:00;17,5;99,0;4,2;SI;0,02
