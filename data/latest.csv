@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-12 05:00;17,6;87,0;0,6;SI;0,262
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-12 06:00;16,8;88,0;0,0;NO;0,23
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-12 04:00;19,7;87,0;0,0;NO;0,298
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-12 05:00;17,35;83,0;0,0;NO;0,337
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-12 05:00;17,95;92,0;0,6;SI;0,165
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-12 05:00;15,8;100,0;1,0;SI;0,0
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-12 05:00;18,45;81,0;0,2;SI;0,403
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-12 05:00;16,9;94,0;1,2;SI;0,116
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-12 05:00;17,9;85,5;0,6;SI;0,297
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-12 05:00;17,85;93,0;1,2;SI;0,143
-TOS11000042;Stiacciole;Grosseto Est;2026-11-12 05:00;17,65;87,0;0,4;SI;0,262
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-12 05:00;16,7;91,5;0,4;SI;0,162
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-12 06:00;16,7;86,0;0,6;SI;0,266
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-12 06:00;17,5;94,5;2,4;SI;0,11
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-12 06:00;15,38;100,0;1,6;SI;0,0
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-12 06:00;16,65;86,5;0,8;SI;0,256
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-12 06:00;16,35;94,0;1,8;SI;0,112
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-12 06:00;17,4;88,5;1,8;SI;0,229
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-12 06:00;17,1;94,5;1,0;SI;0,107
+TOS11000042;Stiacciole;Grosseto Est;2026-11-12 06:00;16,75;89,0;2,4;SI;0,21
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-12 06:00;15,95;95,5;1,8;SI;0,082
