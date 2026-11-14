@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-14 04:00;11,25;78,0;0,0;NO;0,294
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-14 05:00;10,3;80,5;0,0;NO;0,244
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-14 03:00;14,4;77,0;0,0;NO;0,377
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-14 04:00;8,4;81,0;0,0;NO;0,209
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-14 04:00;11,5;80,5;0,0;NO;0,265
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-14 04:00;10,17;88,0;0,0;NO;0,149
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-14 04:00;10,55;87,0;0,0;NO;0,166
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-14 04:00;10,5;84,5;0,0;NO;0,197
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-14 04:00;12,1;82,0;0,0;NO;0,254
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-14 04:00;13,45;90,0;0,0;SI;0,154
-TOS11000042;Stiacciole;Grosseto Est;2026-11-14 04:00;11,8;81,0;0,0;NO;0,263
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-14 04:00;10,7;79,5;0,0;NO;0,264
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-14 05:00;7,2;85,5;0,0;NO;0,147
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-14 05:00;10,8;80,5;0,0;NO;0,253
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-14 05:00;9,76;90,0;0,0;SI;0,121
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-14 05:00;9,9;88,0;0,0;NO;0,146
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-14 05:00;10,2;86,0;0,0;NO;0,174
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-14 05:00;11,5;82,0;0,0;NO;0,244
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-14 05:00;11,8;89,0;0,0;NO;0,152
+TOS11000042;Stiacciole;Grosseto Est;2026-11-14 05:00;11,3;80,0;0,0;NO;0,268
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-14 05:00;10,55;77,0;0,0;NO;0,293
