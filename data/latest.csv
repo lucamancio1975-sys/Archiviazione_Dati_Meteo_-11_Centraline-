@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-14 06:00;10,1;79,0;0,0;NO;0,26
-TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-14 05:00;13,6;79,0;0,0;NO;0,327
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-14 06:00;6,45;83,5;0,0;NO;0,159
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-14 06:00;10,25;82,0;0,0;NO;0,225
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-14 06:00;9,0;80,0;0,0;NO;0,23
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-14 06:00;9,45;86,5;0,0;NO;0,16
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-14 06:00;9,65;85,0;0,0;NO;0,18
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-14 06:00;10,85;83,0;0,0;NO;0,221
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-14 06:00;10,4;91,0;0,0;SI;0,114
-TOS11000042;Stiacciole;Grosseto Est;2026-11-14 06:00;10,65;80,0;0,0;NO;0,256
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-14 06:00;10,0;76,0;0,0;NO;0,295
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-14 07:00;10,0;78,0;0,0;NO;0,27
+TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-14 07:00;11,8;82,0;0,0;NO;0,249
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-14 07:00;6,5;86,5;0,0;NO;0,131
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-14 07:00;9,5;82,5;0,0;NO;0,208
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-14 07:00;9,02;80,0;0,0;NO;0,23
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-14 07:00;8,8;85,0;0,0;NO;0,17
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-14 07:00;9,35;84,0;0,0;NO;0,188
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-14 07:00;10,4;82,5;0,0;NO;0,221
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-14 07:00;9,2;92,5;0,0;SI;0,087
+TOS11000042;Stiacciole;Grosseto Est;2026-11-14 07:00;10,1;79,5;0,0;NO;0,253
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-14 07:00;9,65;76,5;0,0;NO;0,282
