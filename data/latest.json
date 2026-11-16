@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 13:30:51",
+  "updated_at": "2026-11-16 14:31:05",
   "stations_count": 11,
   "stations": {
     "TOS11000008": {
@@ -55,7 +55,7 @@
       "humidity_rh": 74.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.449
+      "vpd_kpa": 0.446
     },
     "TOS11000051": {
       "id": "TOS11000051",
