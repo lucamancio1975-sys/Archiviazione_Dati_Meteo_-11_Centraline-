@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-18 10:00;18,1;94,0;0,0;SI;0,125
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-18 11:00;21,05;90,5;0,0;SI;0,237
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-18 08:00;19,8;87,0;0,0;NO;0,3
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-18 10:00;18,15;82,0;0,0;NO;0,375
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-18 10:00;20,6;80,0;0,0;NO;0,485
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-18 10:00;17,08;100,0;0,0;SI;0,0
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-18 10:00;20,05;76,5;0,0;NO;0,551
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-18 10:00;18,25;96,0;0,0;SI;0,084
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-18 10:00;22,0;68,0;0,0;NO;0,846
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-18 10:00;19,8;97,5;0,2;SI;0,058
-TOS11000042;Stiacciole;Grosseto Est;2026-11-18 10:00;20,95;79,0;0,0;NO;0,521
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-18 10:00;17,95;99,0;0,0;SI;0,021
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-18 11:00;18,8;76,5;0,0;NO;0,51
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-18 11:00;21,3;60,0;0,0;NO;1,013
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-18 11:00;18,52;94,5;0,0;SI;0,118
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-18 11:00;20,75;67,0;0,0;NO;0,808
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-18 11:00;20,25;95,0;0,0;SI;0,119
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-18 11:00;23,1;58,5;0,0;NO;1,173
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-18 11:00;22,0;75,5;0,0;NO;0,648
+TOS11000042;Stiacciole;Grosseto Est;2026-11-18 11:00;21,9;66,0;0,0;NO;0,894
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-18 11:00;19,75;74,0;0,0;NO;0,597
