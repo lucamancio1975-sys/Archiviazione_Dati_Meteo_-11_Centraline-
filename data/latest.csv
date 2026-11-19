@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-19 02:00;13,5;85,0;0,0;NO;0,232
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-19 03:00;13,65;82,5;0,0;NO;0,274
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-19 01:00;15,3;90,0;0,0;SI;0,174
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-19 02:00;11,8;88,0;0,0;NO;0,166
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-19 02:00;15,85;72,0;0,0;NO;0,508
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-19 02:00;14,28;100,0;0,0;SI;0,0
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-19 02:00;13,5;83,5;0,0;NO;0,255
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-19 02:00;14,75;93,0;0,0;SI;0,117
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-19 02:00;16,7;83,0;0,0;NO;0,323
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-19 02:00;14,4;95,0;0,0;SI;0,082
-TOS11000042;Stiacciole;Grosseto Est;2026-11-19 02:00;16,2;79,5;0,0;NO;0,377
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-19 02:00;12,75;81,0;0,0;NO;0,28
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-19 03:00;12,5;86,5;0,0;NO;0,196
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-19 03:00;16,05;66,0;0,0;NO;0,62
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-19 03:00;13,75;100,0;0,0;SI;0,0
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-19 03:00;12,6;84,5;0,0;NO;0,226
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-19 03:00;14,55;94,0;0,0;SI;0,099
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-19 03:00;16,5;84,5;0,0;NO;0,291
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-19 03:00;14,6;95,0;0,0;SI;0,083
+TOS11000042;Stiacciole;Grosseto Est;2026-11-19 03:00;15,35;81,5;0,0;NO;0,323
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-19 03:00;14,15;74,5;0,0;NO;0,412
