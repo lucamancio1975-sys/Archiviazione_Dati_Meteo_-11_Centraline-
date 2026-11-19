@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-19 14:00;22,2;52,0;0,0;NO;1,285
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-19 15:00;20,6;49,0;0,0;NO;1,238
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-19 13:00;20,4;84,0;0,0;NO;0,383
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-19 14:00;20,2;67,0;0,0;NO;0,781
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-19 14:00;20,8;52,0;0,0;NO;1,179
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-19 14:00;16,53;100,0;0,0;SI;0,0
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-19 14:00;20,3;79,0;0,0;NO;0,5
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-19 14:00;18,0;94,0;0,0;SI;0,124
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-19 14:00;21,5;71,0;0,0;NO;0,744
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-19 14:00;20,9;83,0;0,0;NO;0,42
-TOS11000042;Stiacciole;Grosseto Est;2026-11-19 14:00;20,9;63,0;0,0;NO;0,915
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-19 14:00;19,9;62,0;0,0;NO;0,883
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-19 15:00;18,6;65,0;0,0;NO;0,75
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-19 15:00;20,6;52,0;0,0;NO;1,165
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-19 15:00;17,4;100,0;0,0;SI;0,0
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-19 15:00;20,3;49,0;0,0;NO;1,215
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-19 15:00;19,3;89,0;0,0;NO;0,246
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-19 15:00;21,4;63,0;0,0;NO;0,943
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-19 15:00;21,2;76,0;0,0;NO;0,604
+TOS11000042;Stiacciole;Grosseto Est;2026-11-19 15:00;20,4;55,0;0,0;NO;1,079
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-19 15:00;18,6;62,0;0,0;NO;0,814
