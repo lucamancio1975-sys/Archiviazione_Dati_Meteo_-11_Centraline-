@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-19 16:00;18,15;60,5;0,0;NO;0,823
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-19 17:00;16,7;65,0;0,0;NO;0,666
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-19 15:00;19,8;80,0;0,0;NO;0,462
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-19 16:00;15,9;65,5;0,0;NO;0,623
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-19 16:00;18,7;56,0;0,0;NO;0,949
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-19 16:00;16,46;87,5;0,0;NO;0,235
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-19 16:00;17,9;58,0;0,0;NO;0,862
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-19 16:00;18,0;83,5;0,0;NO;0,34
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-19 16:00;20,3;56,0;0,0;NO;1,048
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-19 16:00;19,75;70,5;0,0;NO;0,679
-TOS11000042;Stiacciole;Grosseto Est;2026-11-19 16:00;19,0;46,5;0,0;NO;1,178
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-19 16:00;16,6;66,5;0,0;NO;0,633
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-19 17:00;14,8;71,5;0,0;NO;0,48
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-19 17:00;17,3;61,5;0,0;NO;0,761
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-19 17:00;14,38;70,0;0,0;NO;0,495
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-19 17:00;15,95;64,0;0,0;NO;0,653
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-19 17:00;16,45;66,5;0,0;NO;0,626
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-19 17:00;17,45;59,5;0,0;NO;0,807
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-19 17:00;18,1;67,0;0,0;NO;0,683
+TOS11000042;Stiacciole;Grosseto Est;2026-11-19 17:00;16,3;61,0;0,0;NO;0,723
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-19 17:00;15,35;72,5;0,0;NO;0,48
