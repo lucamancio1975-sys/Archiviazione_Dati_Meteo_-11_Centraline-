@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-23 11:00;17,55;66,5;0,0;NO;0,672
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-23 12:00;17,2;67,0;0,0;NO;0,648
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-23 10:00;16,9;69,0;0,0;NO;0,597
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-23 11:00;13,85;77,5;0,0;NO;0,356
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-23 11:00;17,35;65,0;0,0;NO;0,693
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-23 11:00;13,88;77,0;0,0;NO;0,364
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-23 11:00;16,4;69,0;0,0;NO;0,578
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-23 11:00;15,6;69,5;0,0;NO;0,54
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-23 11:00;17,85;66,5;0,0;NO;0,685
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-23 11:00;18,05;67,0;0,0;NO;0,683
-TOS11000042;Stiacciole;Grosseto Est;2026-11-23 11:00;17,1;65,5;0,0;NO;0,673
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-23 11:00;14,8;76,0;0,0;NO;0,404
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-23 12:00;15,35;72,0;0,0;NO;0,49
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-23 12:00;17,3;64,0;0,0;NO;0,711
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-23 12:00;13,62;77,0;0,0;NO;0,355
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-23 12:00;16,55;71,0;0,0;NO;0,546
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-23 12:00;15,95;69,0;0,0;NO;0,562
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-23 12:00;18,25;64,0;0,0;NO;0,755
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-23 12:00;18,35;64,5;0,0;NO;0,749
+TOS11000042;Stiacciole;Grosseto Est;2026-11-23 12:00;17,5;63,5;0,0;NO;0,73
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-23 12:00;15,05;73,0;0,0;NO;0,462
