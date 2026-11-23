@@ -1,127 +1,127 @@
 {
-  "updated_at": "2026-11-23 15:30:50",
+  "updated_at": "2026-11-23 16:30:52",
   "stations_count": 11,
   "stations": {
     "TOS11000008": {
       "id": "TOS11000008",
       "name": "Braccagni",
       "area": "Grosseto Nord / Maremma",
-      "timestamp": "2026-11-23 16:00",
-      "temperature_c": 15.9,
-      "humidity_rh": 64.5,
+      "timestamp": "2026-11-23 17:00",
+      "temperature_c": 11.9,
+      "humidity_rh": 78.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.642
+      "vpd_kpa": 0.307
     },
     "TOS11000006": {
       "id": "TOS11000006",
       "name": "Capalbio",
       "area": "Maremma Sud / Bassa Toscana",
-      "timestamp": "2026-11-23 14:00",
-      "temperature_c": 17.35,
-      "humidity_rh": 65.0,
+      "timestamp": "2026-11-23 17:00",
+      "temperature_c": 13.9,
+      "humidity_rh": 75.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.694
+      "vpd_kpa": 0.397
     },
     "TOS11000038": {
       "id": "TOS11000038",
       "name": "Ottavo (Castiglion Fiorentino)",
       "area": "Valdichiana / Arezzo",
-      "timestamp": "2026-11-23 16:00",
-      "temperature_c": 14.75,
-      "humidity_rh": 60.0,
+      "timestamp": "2026-11-23 17:00",
+      "temperature_c": 11.5,
+      "humidity_rh": 74.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.671
+      "vpd_kpa": 0.353
     },
     "TOS03002459": {
       "id": "TOS03002459",
       "name": "Follonica",
       "area": "Maremma Nord / Costa",
-      "timestamp": "2026-11-23 16:00",
-      "temperature_c": 16.55,
-      "humidity_rh": 63.5,
+      "timestamp": "2026-11-23 17:00",
+      "temperature_c": 13.8,
+      "humidity_rh": 73.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.688
+      "vpd_kpa": 0.427
     },
     "TOS03003079": {
       "id": "TOS03003079",
       "name": "Manciano",
       "area": "Colline del Fiora / Maremma",
-      "timestamp": "2026-11-23 16:00",
-      "temperature_c": 12.88,
-      "humidity_rh": 74.5,
+      "timestamp": "2026-11-23 17:00",
+      "temperature_c": 12.17,
+      "humidity_rh": 78.5,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.381
+      "vpd_kpa": 0.309
     },
     "TOS11000051": {
       "id": "TOS11000051",
       "name": "Montenero",
       "area": "Amiata / Val d'Orcia",
-      "timestamp": "2026-11-23 16:00",
-      "temperature_c": 14.7,
-      "humidity_rh": 66.5,
+      "timestamp": "2026-11-23 17:00",
+      "temperature_c": 12.6,
+      "humidity_rh": 79.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.56
+      "vpd_kpa": 0.306
     },
     "TOS11000014": {
       "id": "TOS11000014",
       "name": "Pitigliano",
       "area": "Area del Tufo / Maremma",
-      "timestamp": "2026-11-23 16:00",
-      "temperature_c": 15.4,
-      "humidity_rh": 71.5,
+      "timestamp": "2026-11-23 17:00",
+      "temperature_c": 14.05,
+      "humidity_rh": 75.5,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.499
+      "vpd_kpa": 0.393
     },
     "TOS11000005": {
       "id": "TOS11000005",
       "name": "Rispescia",
       "area": "Grosseto Sud / Parco Maremma",
-      "timestamp": "2026-11-23 16:00",
-      "temperature_c": 16.4,
-      "humidity_rh": 66.5,
+      "timestamp": "2026-11-23 17:00",
+      "temperature_c": 14.4,
+      "humidity_rh": 71.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.625
+      "vpd_kpa": 0.476
     },
     "TOS03003099": {
       "id": "TOS03003099",
       "name": "S. Donato",
       "area": "Orbetello / Costa d'Argento",
-      "timestamp": "2026-11-23 16:00",
-      "temperature_c": 15.35,
-      "humidity_rh": 73.0,
+      "timestamp": "2026-11-23 17:00",
+      "temperature_c": 14.05,
+      "humidity_rh": 77.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.471
+      "vpd_kpa": 0.369
     },
     "TOS11000042": {
       "id": "TOS11000042",
       "name": "Stiacciole",
       "area": "Grosseto Est",
-      "timestamp": "2026-11-23 16:00",
-      "temperature_c": 16.55,
-      "humidity_rh": 60.0,
+      "timestamp": "2026-11-23 17:00",
+      "temperature_c": 13.65,
+      "humidity_rh": 71.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.753
+      "vpd_kpa": 0.453
     },
     "TOS11000041": {
       "id": "TOS11000041",
       "name": "Massa Marittima Valpiana",
       "area": "Colline Metallifere / Maremma",
-      "timestamp": "2026-11-23 16:00",
-      "temperature_c": 14.05,
-      "humidity_rh": 69.5,
+      "timestamp": "2026-11-23 17:00",
+      "temperature_c": 12.8,
+      "humidity_rh": 76.0,
       "rainfall_mm": 0.0,
       "leaf_wetness": false,
-      "vpd_kpa": 0.489
+      "vpd_kpa": 0.355
     }
   }
 }
