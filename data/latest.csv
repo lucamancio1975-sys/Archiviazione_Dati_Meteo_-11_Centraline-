@@ -1,12 +1,12 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-23 14:00;15,45;68,2;0,0;NO;0,557
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-23 16:00;15,9;64,5;0,0;NO;0,642
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-23 14:00;17,35;65,0;0,0;NO;0,694
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-23 15:00;15,75;57,0;0,0;NO;0,769
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-23 15:00;16,9;61,0;0,0;NO;0,751
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-23 15:00;13,05;76,5;0,0;NO;0,354
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-23 15:00;16,0;68,5;0,0;NO;0,573
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-23 15:00;15,85;70,0;0,0;NO;0,54
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-23 15:00;17,0;64,5;0,0;NO;0,688
-TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-23 15:00;15,95;69,5;0,0;NO;0,553
-TOS11000042;Stiacciole;Grosseto Est;2026-11-23 15:00;16,05;64,5;0,0;NO;0,648
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-23 15:00;14,6;72,0;0,0;NO;0,465
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-23 16:00;14,75;60,0;0,0;NO;0,671
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-23 16:00;16,55;63,5;0,0;NO;0,688
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-23 16:00;12,88;74,5;0,0;NO;0,381
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-23 16:00;14,7;66,5;0,0;NO;0,56
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-23 16:00;15,4;71,5;0,0;NO;0,499
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-23 16:00;16,4;66,5;0,0;NO;0,625
+TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-23 16:00;15,35;73,0;0,0;NO;0,471
+TOS11000042;Stiacciole;Grosseto Est;2026-11-23 16:00;16,55;60,0;0,0;NO;0,753
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-23 16:00;14,05;69,5;0,0;NO;0,489
