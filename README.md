@@ -21,6 +21,8 @@ Il sistema interroga direttamente i dati telemetrici sorgente del server regiona
 | `TOS03003099` | **S. Donato** | Orbetello / Costa d'Argento | Pluvio, Termo, Igro |
 | `TOS11000042` | **Stiacciole** | Grosseto Est | Pluvio, Termo, Igro |
 | `TOS11000041` | **Massa Marittima Valpiana** | Colline Metallifere / Maremma | Pluvio, Termo, Igro |
+| `TOS11000037` | **Cesa** | Valdichiana / Arezzo | Pluvio, Termo, Igro |
+| `TOS11000013` | **Casotto dei Pescatori** | Marina di Grosseto / Costa | Pluvio, Termo, Igro |
 
 ---
 

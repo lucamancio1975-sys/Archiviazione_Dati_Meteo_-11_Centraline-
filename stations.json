@@ -9,6 +9,8 @@
   {"id": "TOS11000005", "name": "Rispescia", "area": "Grosseto Sud / Parco Maremma"},
   {"id": "TOS03003099", "name": "S. Donato", "area": "Orbetello / Costa d'Argento"},
   {"id": "TOS11000042", "name": "Stiacciole", "area": "Grosseto Est"},
-  {"id": "TOS11000041", "name": "Massa Marittima Valpiana", "area": "Colline Metallifere / Maremma"}
+  {"id": "TOS11000041", "name": "Massa Marittima Valpiana", "area": "Colline Metallifere / Maremma"},
+  {"id": "TOS11000037", "name": "Cesa", "area": "Valdichiana / Arezzo"},
+  {"id": "TOS11000013", "name": "Casotto dei Pescatori", "area": "Marina di Grosseto / Costa"}
 ]
 
