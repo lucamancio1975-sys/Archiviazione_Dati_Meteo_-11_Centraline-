@@ -1,14 +1,14 @@
 ﻿ID_Stazione;Nome_Stazione;Area_Geografica;Ultimo_Timestamp;Temperatura_C;Umidita_Relativa_%;Pioggia_Oraria_mm;Foglia_Bagnata;VPD_kPa
-TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-27 15:00;14,45;79,0;0,4;SI;0,345
+TOS11000008;Braccagni;Grosseto Nord / Maremma;2026-11-27 16:00;14,45;79,0;0,0;NO;0,346
 TOS11000006;Capalbio;Maremma Sud / Bassa Toscana;2026-11-27 14:00;17,6;64,5;0,0;NO;0,714
-TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-27 15:00;13,6;69,5;0,0;NO;0,475
-TOS03002459;Follonica;Maremma Nord / Costa;2026-11-27 15:00;15,7;69,0;0,0;NO;0,553
-TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-27 15:00;10,82;85,0;0,0;NO;0,19
-TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-27 15:00;15,35;66,0;0,0;NO;0,593
-TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-27 15:00;11,4;84,5;0,2;SI;0,209
-TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-27 15:00;17,15;58,5;0,0;NO;0,812
+TOS11000038;Ottavo (Castiglion Fiorentino);Valdichiana / Arezzo;2026-11-27 16:00;13,35;66,5;0,0;NO;0,514
+TOS03002459;Follonica;Maremma Nord / Costa;2026-11-27 16:00;15,25;68,5;0,0;NO;0,546
+TOS03003079;Manciano;Colline del Fiora / Maremma;2026-11-27 16:00;10,15;88,0;0,0;NO;0,149
+TOS11000051;Montenero;Amiata / Val d'Orcia;2026-11-27 16:00;13,0;70,0;0,0;NO;0,45
+TOS11000014;Pitigliano;Area del Tufo / Maremma;2026-11-27 16:00;10,4;86,5;0,0;NO;0,17
+TOS11000005;Rispescia;Grosseto Sud / Parco Maremma;2026-11-27 16:00;15,8;64,0;0,0;NO;0,647
 TOS03003099;S. Donato;Orbetello / Costa d'Argento;2026-11-26 21:00;10,1;93,0;0,0;SI;0,087
-TOS11000042;Stiacciole;Grosseto Est;2026-11-27 15:00;15,7;62,5;0,0;NO;0,67
-TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-27 15:00;14,7;68,0;0,0;NO;0,535
-TOS11000037;Cesa;Valdichiana / Arezzo;2026-11-27 15:00;13,25;75,5;0,0;NO;0,373
-TOS11000013;Casotto dei Pescatori;Marina di Grosseto / Costa;2026-11-27 15:00;15,7;70,5;0,0;NO;0,526
+TOS11000042;Stiacciole;Grosseto Est;2026-11-27 16:00;13,85;71,5;0,0;NO;0,451
+TOS11000041;Massa Marittima Valpiana;Colline Metallifere / Maremma;2026-11-27 16:00;13,95;71,5;0,0;NO;0,454
+TOS11000037;Cesa;Valdichiana / Arezzo;2026-11-27 16:00;12,25;78,5;0,0;NO;0,307
+TOS11000013;Casotto dei Pescatori;Marina di Grosseto / Costa;2026-11-27 16:00;14,25;78,0;0,0;NO;0,357
